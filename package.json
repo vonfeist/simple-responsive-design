@@ -1,0 +1,21 @@
+{
+  "name": "ob-task",
+  "version": "1.0.0",
+  "description": "Solution to the task no. 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pia Fornfeist",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.24.5",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-connect-php": "^1.0.3",
+    "gulp-ruby-sass": "^3.0.0",
+    "gulp-sourcemaps": "^2.6.4"
+  },
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
